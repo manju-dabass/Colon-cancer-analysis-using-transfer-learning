@@ -1,4 +1,4 @@
-# Colon-cancer-analysis-using-transfer-learning-by-InceptionNet
+# Colon-cancer-analysis-using-transfer-learning-by-VGG16
 
 here, the following things are done on NCT_CRC_100K dataset:
 
